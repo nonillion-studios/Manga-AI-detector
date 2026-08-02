@@ -112,7 +112,7 @@ names:
   2: text
   3: sfx
 2. Fine-tune using best.pt
-Create a train.py script or run the command below to fine-tune using transfer learning:
+Create a train.py script or run the code below to fine-tune using transfer learning:
 
 Python
 
