@@ -1,0 +1,11 @@
+# Ultralytics output folders
+runs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS specific files
+.DS_Store
+Thumbs.db
