@@ -150,10 +150,10 @@ train: images/train
 val: images/val
 
 names:
-  0: bubble
-  1: panel
-  2: sfx
-  3: text
+  0: panel
+  1: bubble
+  2: text
+  3: sfx
 ```
 
 ---
