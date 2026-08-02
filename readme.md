@@ -25,7 +25,12 @@ This model is fine-tuned to detect **4 structural elements** found in manga and 
 | 💥 **SFX** | Stylized sound effects and lettering |
 
 ---
+## 🖼️ Visual Results
 
+| Input Page | Detections Output |
+| :---: | :---: |
+| <img src="assets/manga_input.jpg" width="400"> | <img src="assets/manga_output.jpg" width="400"> |
+---
 # 💻 Hardware Requirements
 
 ## Minimum (Inference)
