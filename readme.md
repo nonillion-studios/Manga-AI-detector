@@ -268,6 +268,6 @@ For full license text, see the **LICENSE** file.
 
 **Nonillion Studios**
 **by : Mohamed M.Hamdy**
-If you find this project useful, consider giving it a ⭐ on GitHub.
-
+If you find this project useful, consider giving it a ⭐ on GitHub or support me in future projects by buying me a coffee!.
+Support me: https://buymeacoffee.com/Nonillion.studios
 GitHub: https://github.com/nonillion-studios
