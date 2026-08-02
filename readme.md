@@ -214,7 +214,26 @@ pip install -r requirements.txt
 ```
 
 ---
+## 🐳 Docker Setup & Usage
 
+If you prefer using Docker to avoid environment and dependency issues:
+
+### 1. Build the Docker Image
+
+```bash
+docker build -t manga-ai-detector .
+```
+--- 
+
+###2. Run Inference with Docker
+Mount your local directory containing images to run inference on them:
+
+```bash
+docker run --rm \
+  -v $(pwd)/data:/app/data \
+  manga-ai-detector --source /app/data/manga_page.jpg --save
+```
+---
 # 🤝 Contributing
 
 Contributions are welcome!
