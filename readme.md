@@ -225,7 +225,7 @@ docker build -t manga-ai-detector .
 ```
 --- 
 
-###2. Run Inference with Docker
+### 2. Run Inference with Docker
 Mount your local directory containing images to run inference on them:
 
 ```bash
